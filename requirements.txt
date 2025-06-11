@@ -1,0 +1,7 @@
+- flask
+- plotly
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- pandas
